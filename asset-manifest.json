@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/imabhinav-singh.github.io/bulletin-board/static/css/main.deb2e330.css",
+    "main.js": "/imabhinav-singh.github.io/bulletin-board/static/js/main.40f58ad3.js",
+    "static/media/pin-svgrepo-com.svg": "/imabhinav-singh.github.io/bulletin-board/static/media/pin-svgrepo-com.ff6e734ebf3804f84758a22ed55e0c91.svg",
+    "static/media/pin-fill-svgrepo-com.svg": "/imabhinav-singh.github.io/bulletin-board/static/media/pin-fill-svgrepo-com.e5f301c4fd41567c9e9a263ce657e236.svg",
+    "index.html": "/imabhinav-singh.github.io/bulletin-board/index.html",
+    "static/media/check-circle-svgrepo-com.svg": "/imabhinav-singh.github.io/bulletin-board/static/media/check-circle-svgrepo-com.26073367c0eaee82c40db63369d17773.svg",
+    "static/media/xmark-solid.svg": "/imabhinav-singh.github.io/bulletin-board/static/media/xmark-solid.c1a55c8007326e1e35e34269ec3df653.svg",
+    "main.deb2e330.css.map": "/imabhinav-singh.github.io/bulletin-board/static/css/main.deb2e330.css.map",
+    "main.40f58ad3.js.map": "/imabhinav-singh.github.io/bulletin-board/static/js/main.40f58ad3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb2e330.css",
+    "static/js/main.40f58ad3.js"
+  ]
+}
