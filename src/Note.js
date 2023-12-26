@@ -34,6 +34,12 @@ const Note = ({
                 if (isPinned) return false;
                 e.dataTransfer.setData('text/plain', JSON.stringify({ id: id, x: e.clientX, y: e.clientY }));
             }}
+            onDragOver={e => {
+                e.preventDefault();
+                if (isPinned) {
+                    e.dataTransfer.dropEffect = 'none';
+                }
+            }}
         >
             {isEditing ? (
                 <div className='note-edit'>
